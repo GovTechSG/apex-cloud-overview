@@ -1,1 +1,1 @@
-- [Home](subscription/susbcription.md)
+- [Home](subscription/subscription.md)
