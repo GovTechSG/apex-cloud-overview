@@ -1,2 +1,2 @@
 - **Home**
-  - [Subscription](subscription/subscription.md)
+  - [Subscription](subscription.md)
