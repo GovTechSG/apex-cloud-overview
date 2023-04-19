@@ -1,2 +1,0 @@
-- **Home**
-  - [Welcome](docs/home.md)
