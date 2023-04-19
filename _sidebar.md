@@ -1,2 +1,2 @@
-- [Home](subscription/subscription.md)
-- test
+- **Home**
+  - [Welcome](docs/home.md)
