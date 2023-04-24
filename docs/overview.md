@@ -30,7 +30,7 @@ API sandbox to promote discovery and self service sampling of APIs.
 
 To know more about APEX Cloud's key features, see [Features](https://docs.developer.tech.gov.sg/docs/apex-cloud-getting-started-guide/docs/features).
 
-### Technical Specifications
+## Technical Specifications
 
 APEX Cloud has the following technical specifications.
 
