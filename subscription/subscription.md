@@ -1,4 +1,4 @@
-# APEX Cloud Subscription
+<# APEX Cloud Subscription
 
 Below are the indicative pricing details for APEX Cloud's monthly subscription:
 
