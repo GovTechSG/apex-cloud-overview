@@ -4,8 +4,6 @@ APEX Cloud is a full-fledged API management solution that allows developers, pro
 
 APEX Cloud is accessible from both the intranet and the internet and is compliant with ICT&SS management guidelines (formerly known as IM8) as well as various governance standards. 
 
-Effective API management is critical for accessing information and functionalities across systems. Within the government, APIs are important for facilitating data exchange and enabling cross-collaboration and innovation. For businesses, they help to drive efficiency and digital services. Through APEX Cloud, overheads for API management can be reduced, enabling users to focus on designing and developing solutions for their customers.
-
 ## Benefits
 
 APEX Cloud offers the following important benefits:
@@ -30,4 +28,19 @@ Incorporation of industry standardisation and best practices for user security.
 - Mutual Transport Layer Security (TLS) with JWKS (JSON Web Key Sets) and secured data exchange with JWT (JSON Web Token) for same and cross-zone exchange
 API sandbox to promote discovery and self service sampling of APIs.
 
-To know more about APEX Cloud's key features, see  [Features](https://docs.developer.tech.gov.sg/docs/apex-cloud-getting-started-guide/docs/features).
+To know more about APEX Cloud's key features, see [Features](https://docs.developer.tech.gov.sg/docs/apex-cloud-getting-started-guide/docs/features).
+
+### Technical Specifications
+
+APEX Cloud has the following technical specifications.
+
+| **APEX Cloud**  | Defaults  | Can be increased/decreased? (Quotas) |
+| -------------------------------- | ---------------------------- | ----------------------------------- |
+| **Authentication**  | Inbound:<br>API Key + JWT<br>Outbound: <br>API Key, TLS, MTLS,<br>AWS Signature v4,<br>custom policies | Not Applicable |
+| **Authorization**   | Token-based AuthZ with OAuth,<br>OAuth with Singpass/Corppass  | Not Applicable                      |
+| **Protocols Supported** | SOAP, REST, JSON, XML | Not Applicable  |
+| **Payload Size Limit (send)**    | 10 MB  | No   |
+| **Payload Size Limit (receive)** | 10 MB  | No   |
+| **Concurrent connections**       | 128    | Yes  |
+| **Connection timeout**           | 30 seconds    | Yes   |
+| **Active timeout**               | 30 seconds    | Yes   |
