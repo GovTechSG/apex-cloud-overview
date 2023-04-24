@@ -12,8 +12,10 @@ The API gateway is the core infrastructure that provides security and connectivi
 
 The API Builder is an open-source, Node.js software that acts as an integration and orchestration layer between APEX Cloud and any existing service providers. It comes with a low/no-code approach and a rich set of ready-to-use libraries that allows users to develop integration use cases much faster than when implementing them manually.
 
-An API portal for businesses and individuals to access government APIs
+## API Portal
+
 The API Portal is a web-based portal that enables external, non-government developers to discover and consume APIs that government agencies have exposed. It comes with self-service features that allow developers to browse and test APIs as well as manage their application credentials and monitor their API usages through graphs and charts.
 
-A real-time API monitoring feature for analysis
+## API Monitoring
+
 The API manager also comes with real-time API monitoring which allows users to analyse their API use and discover insights and trends.

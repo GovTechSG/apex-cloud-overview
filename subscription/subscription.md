@@ -1,4 +1,4 @@
-<# APEX Cloud Subscription
+# APEX Cloud Subscription
 
 Currently, only API publishers have to pay to use APEX Cloud. Public officers can view [indicative pricing details on GSIB](https://sgdcs.sgnet.gov.sg/sites/IDA-GoSync/gdspdd-ai/SitePages/APEX-Cloud-Pricing.aspx) (this link is hosted on the intranet).
 
