@@ -30,4 +30,4 @@ Incorporation of industry standardisation and best practices for user security.
 - Mutual Transport Layer Security (TLS) with JWKS (JSON Web Key Sets) and secured data exchange with JWT (JSON Web Token) for same and cross-zone exchange
 API sandbox to promote discovery and self service sampling of APIs.
 
-To know more about APEX Cloud's key features, see  [**Features**].
+To know more about APEX Cloud's key features, see  [Features](https://docs.developer.tech.gov.sg/docs/apex-cloud-getting-started-guide/docs/features).
