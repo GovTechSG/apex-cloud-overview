@@ -1,8 +1,6 @@
 # APEX Cloud Getting Started Documentation
 
-Welcome to the APEX Cloud Getting Started documentation!
-
-Use the navigation menu on the left to browse the documentation and learn more about APEX Cloud and its features.
+Welcome! Use the navigation menu on the left to browse the documentation and learn more about APEX Cloud and its features.
 
 Once you have become familiar with APEX Cloud, you can refer to the following documentation to learn how to use it:
 
