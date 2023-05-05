@@ -17,8 +17,8 @@ APEX Cloud has the following technical specifications.
 | **Max Transaction Per Second (API)** | 20 | Yes |
 | **Max Transaction Per Second (Application)** | 20 | Yes |
 
-## Supported TLS Version and Cipher Suites
+## TLS Support
 
-| TLS Protocol Version | TLS Ciphers |
+| TLS Protocol Version | TLS Cipher Suites |
 | -- | -- |
 | Protocol-TLSv1.2 | ECDHE-ECDSA-AES128-GCM-SHA256<br> ECDHE-ECDSA-AES256-GCM-SHA384<br> ECDHE-RSA-AES128-GCM-SHA256<br> ECDHE-RSA-AES256-GCM-SHA384<br>
